@@ -1,0 +1,18 @@
+type: sorting
+options:
+  - power <code>**</code>
+  - unary minus <code>-</code>
+  - addition and subtraction <code>+ -</code>
+  - "multiplication, division, integer division, and remainder <code>* / // %</code>"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6890#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

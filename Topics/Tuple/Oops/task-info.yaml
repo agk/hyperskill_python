@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: 'Create a singleton tuple using round brackets without the comma '
+  - text: Set a new value to a tuple item
+  - text: Get an element by an index that does not exist in a tuple
+  - text: Convert a string to a tuple using the <code>tuple()</code> function
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7467#comment
+status: Solved
+record: -1
+custom_name: Oops!
+local_check: false

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>get_opposite(number)</code>
+  - text: <code>get_opposite_and_inverse(number)</code>
+  - text: <code>get_inverse(number)</code>
+  - text: <code>is_even(number)</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9572#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 15 Jan 2026 18:26:06 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+local_check: false
