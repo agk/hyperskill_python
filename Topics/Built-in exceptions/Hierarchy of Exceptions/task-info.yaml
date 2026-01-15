@@ -1,0 +1,20 @@
+type: sorting
+options:
+  - <code>BrokenPipeError</code>
+  - <code>Exception</code>
+  - <code>ConnectionError</code>
+  - <code>OSError</code>
+  - <code>BaseException</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11684#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
