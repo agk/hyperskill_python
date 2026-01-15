@@ -10,6 +10,11 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/15771#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 15 Jan 2026 18:26:56 UTC"
 record: -1
+selected_options:
+  - 3
 local_check: false

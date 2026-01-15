@@ -11,5 +11,12 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9572#comment
 status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 15 Jan 2026 18:26:06 UTC"
 record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
 local_check: false
